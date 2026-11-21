@@ -8,12 +8,11 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
+4 input - 2 outputs 
 
 ## How to test
 
-Explain how to use your project
+combinational logic
 
 ## External hardware
 
